@@ -1,0 +1,7 @@
+[package]
+name = "macro_csv_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv_example = { path = "./csv-example" }
